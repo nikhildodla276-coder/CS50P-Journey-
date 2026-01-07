@@ -1,0 +1,45 @@
+"""
+Project: Sovereign Architect - Logic Foundation
+Specialist: Nikhil (The Shadow Specialist)
+Objective: Robust Input & Self-Healing Logic
+"""
+
+def main():
+    print("--- SYSTEM INITIALIZED ---")
+    while True:
+        # Step 1: Secure valid data from the Shield Function
+        result = get_valid_income("Enter monthly income: ")
+        
+        # Step 2: Check for shutdown command
+        if result == "EXIT":
+            print("System Powering Down. Stay Sovereign.")
+            break
+        
+        # Step 3: Process Logic based on the Trinity roadmap
+        if result < 20000:
+            print("Status: Lean Student Mode. Save 100%")
+        elif 20000 <= result <= 50000:
+            print("Status: Intern Mode. Invest 20%")
+        else:
+            print("Status: Sovereign Mode. Invest 50%")
+        print("-" * 20)
+
+def get_valid_income(prompt):
+    """The Shield: Handles errors before they hit the core logic."""
+    while True:
+        user_input = input(prompt).strip().upper()
+        
+        if user_input in ["EXIT", "QUIT"]:
+            return "EXIT"
+        
+        try:
+            income = int(user_input)
+            if income < 0:
+                print("Error: Income cannot be negative.")
+                continue
+            return income
+        except ValueError:
+            print("System Error: Numeric input required. Retrying...")
+
+if __name__ == "__main__":
+    main()
