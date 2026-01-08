@@ -6,12 +6,15 @@ To become a **Sovereign AI Automation Architect** by graduation (2028).
 - **Current Focus:** Phase 1 - The Logic Layer (CS50P).
 
 ### 📈 Mission Progress
-- **Current Streak:** Day 3 🔥
+- **Current Streak:** Day 4 🔥
 - **Jan 5, 2025 (Day 1):** System Initialization. Repository created.
 - **Jan 6, 2026 (Day 2):** Completed Lecture 1. Mastered string manipulation.
 - **Jan 7, 2026 (Day 3):** Mastered **Exceptions & Modular Logic**.
   - Built `sovereign_allocator.py` with a "Shield" function to handle chaos input.
   - Implemented persistent loops for automation uptime.
+- **Jan 8, 2026 (Day 4): ** Mastered Lists of Dictionaries and CLI Arguments**.
+
+Transitioned from input() to sys.argv for professional automation workflows.
 
 ### 🛠️ Tech Stack Focus
 - Python 3.x 🐍
