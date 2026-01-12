@@ -6,7 +6,7 @@ To become a **Sovereign AI Automation Architect** by graduation (2028).
 - **Current Focus:** Phase 1 - The Logic Layer (CS50P).
 
 ### 📈 Mission Progress
-- **Current Streak:** Day 7🔥
+- **Current Streak:** Day 8🔥
 - **Jan 5, 2025 (Day 1):** System Initialization. Repository created.
 - **Jan 6, 2026 (Day 2):** Completed Lecture 1. Mastered string manipulation.
 - **Jan 7, 2026 (Day 3):** Mastered **Exceptions & Modular Logic**.
@@ -29,6 +29,11 @@ Transitioned from input() to sys.argv for professional automation workflows.
     - **Logic:** Built a "Priority Engine" that makes autonomous decisions based on efficiency thresholds.
     - **Milestone:** 7-Day Streak Achieved. Moving from Library Mastery to **Unit Testing (pytest)**.
     - **Identity:** Successfully maintained discipline during hostel migration and environmental shifts.
+  - **Jan 12, 2026 (Day 8): The Sentinel Phase (Unit Testing)**
+    - **Technical:** Initialized `05_Unit_Tests` architecture to implement `pytest` standards.
+    - **Logic:** Built a security clearance engine with `try/except` for input sanitization.
+    - **Architecture:** Decoupled Business Logic from Verification Logic for professional scalability.
+    - **Status:** Week 2 started with 100% discipline despite hostel migration.
 ### 🛠️ Tech Stack Focus
 - Python 3.x 🐍
 - Goal: Logic -> Data -> Agents (The Trinity).
