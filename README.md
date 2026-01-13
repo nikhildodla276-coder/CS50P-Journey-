@@ -6,7 +6,7 @@ To become a **Sovereign AI Automation Architect** by graduation (2028).
 - **Current Focus:** Phase 1 - The Logic Layer (CS50P).
 
 ### 📈 Mission Progress
-- **Current Streak:** Day 8🔥
+- **Current Streak:** Day 9🔥
 - **Jan 5, 2025 (Day 1):** System Initialization. Repository created.
 - **Jan 6, 2026 (Day 2):** Completed Lecture 1. Mastered string manipulation.
 - **Jan 7, 2026 (Day 3):** Mastered **Exceptions & Modular Logic**.
@@ -34,6 +34,11 @@ Transitioned from input() to sys.argv for professional automation workflows.
     - **Logic:** Built a security clearance engine with `try/except` for input sanitization.
     - **Architecture:** Decoupled Business Logic from Verification Logic for professional scalability.
     - **Status:** Week 2 started with 100% discipline despite hostel migration.
+    - - **Jan 13, 2026 (Day 9): Persistence & File I/O**
+    - **Technical:** Implemented File I/O using the `with` context manager for safe resource handling.
+    - **Logic:** Established "Permanent Memory" by appending data to `.txt` files instead of just printing to console.
+    - **Architecture:** Transitioned from volatile data (RAM) to persistent data (Disk).
+    - **Identity:** Maintaining the 9-day streak despite the heavy 4th-semester workload.
 ### 🛠️ Tech Stack Focus
 - Python 3.x 🐍
 - Goal: Logic -> Data -> Agents (The Trinity).
