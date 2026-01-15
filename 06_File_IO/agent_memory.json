@@ -1,0 +1,30 @@
+"""
+Project: JSON Agent Memory
+Identity: Shadow Specialist
+Goal: Storing nested configurations (Standard for LangChain & CrewAI).
+"""
+
+import json
+
+def main():
+    # Complex data: This is how your AI Agent's 'State' looks
+    agent_state = {
+        "identity": "Shadow Specialist",
+        "current_phase": 1,
+        "technical_stack": ["Python", "SQL", "Pytest", "JSON"],
+        "goals": {
+            "dec_2026": "₹50k Internship",
+            "2028": "AI Automation Architect"
+        }
+    }
+
+    try:
+        # 'w' mode because we are updating the full state
+        with open("agent_state.json", "w") as file:
+            json.dump(agent_state, file, indent=4) # indent=4 makes it readable
+        print("Success: Agent state serialized to agent_state.json")
+    except Exception as e:
+        print(f"System Error: {e}")
+
+if __name__ == "__main__":
+    main()
