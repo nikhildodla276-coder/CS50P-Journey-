@@ -6,7 +6,7 @@ To become a **Sovereign AI Automation Architect** by graduation (2028).
 - **Current Focus:** Phase 1 - The Logic Layer (CS50P).
 
 ### 📈 Mission Progress
-- **Current Streak:** Day 12🔥
+- **Current Streak:** Day 13🔥
 - **Jan 5, 2025 (Day 1):** System Initialization. Repository created.
 - **Jan 6, 2026 (Day 2):** Completed Lecture 1. Mastered string manipulation.
 - **Jan 7, 2026 (Day 3):** Mastered **Exceptions & Modular Logic**.
@@ -54,6 +54,17 @@ Transitioned from input() to sys.argv for professional automation workflows.
     - **Logic:** Built a "Recovery Mode" to handle missing or corrupted JSON files without system crashes.
     - **Architecture:** Protocol Day 2 of 3 (Robustness Phase). Transitioned from "Happy Path" coding to "Defensive" engineering.
     - **Identity:** Maintaining sovereignty over the code even when the environment (hostel/college) is chaotic.
+    - ## 🌑 Shadow Specialist Log: Jan 17, 2026 (Day 13)
+
+### **Today's Mission: Defensive Infrastructure**
+- **Technical Growth:** Implemented **Exception Handling** using `try-except-finally` blocks to build unbreakable data pipelines.
+- **Deep Learning Theory:** Internalized the **Learning Approaches** (Lecture 4). Successfully distinguished between **Supervised** (mapping input to labels) and **Unsupervised** (pattern discovery in raw data).
+- **Environment Setup:** Successfully configured **VS Code** on my Dell laptop for the Harvard **CS50P** (Python) series.
+
+### **The Specialist Metrics**
+- **Status:** Day 13 of 348 until Graduation Goal.
+- **Current Stack:** Python Basics | SQL Fundamentals | Git/GitHub.
+- **Health Algorithm:** 5:00 AM Wakeup + Yoga/Exercise + Sattu Fueling.
 ### 🛠️ Tech Stack Focus
 - Python 3.x 🐍
 - Goal: Logic -> Data -> Agents (The Trinity).
