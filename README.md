@@ -6,7 +6,7 @@ To become a **Sovereign AI Automation Architect** by graduation (2028).
 - **Current Focus:** Phase 1 - The Logic Layer (CS50P).
 
 ### 📈 Mission Progress
-- **Current Streak:** Day 13🔥
+- **Current Streak:** Day 14🔥
 - **Jan 5, 2025 (Day 1):** System Initialization. Repository created.
 - **Jan 6, 2026 (Day 2):** Completed Lecture 1. Mastered string manipulation.
 - **Jan 7, 2026 (Day 3):** Mastered **Exceptions & Modular Logic**.
@@ -65,6 +65,11 @@ Transitioned from input() to sys.argv for professional automation workflows.
 - **Status:** Day 13 of 348 until Graduation Goal.
 - **Current Stack:** Python Basics | SQL Fundamentals | Git/GitHub.
 - **Health Algorithm:** 5:00 AM Wakeup + Yoga/Exercise + Sattu Fueling.
+- ## 📅 Log: January 18, 2026
+### **Milestone: Hardware & Environment Initialization**
+- **System Calibration**: Successfully installed and verified Git (v2.52.0) and Python (v3.14.0).
+- **Problem Solved**: Resolved terminal `Path Specified` errors by identifying local directory structures (OneDrive/Desktop).
+- **Logic Execution**: Successfully ran `init_test.py` via Command Prompt to verify Python-Hardware interaction.
 ### 🛠️ Tech Stack Focus
 - Python 3.x 🐍
 - Goal: Logic -> Data -> Agents (The Trinity).
